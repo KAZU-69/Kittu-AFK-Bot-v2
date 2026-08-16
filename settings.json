@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "ParaOneBlock.aternos.me",
+    "port": 56892,
     "version": "1.21.1"
   },
   "position": {
